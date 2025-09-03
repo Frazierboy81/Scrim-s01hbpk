@@ -29,7 +29,7 @@ body, .contact-input, .contact-textarea  {
     font-weight: bold;
     margin: 0;
 }
-.contact-form-heading span {
+.contact-form-heading em {
     color: #007000;
 }
 .contact-form-intro {
